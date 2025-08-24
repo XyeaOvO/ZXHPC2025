@@ -1,0 +1,18 @@
+Setting up environment...
+Starting llama.cpp server in the background...
+Server command: /home/u2023212641/llm-challenge/llama.cpp/build/bin/llama-server -m /home/u2023212641/llm-challenge/llama.cpp/models/microsoft_Phi-4-mini-instruct-Q4_K_M.gguf --host 127.0.0.1 --port 8080 -t 40 -tb 40 -c 4096 -b 4096 -ctk q8_0 -ctv q8_0 --parallel 5 --numa distribute --timeout 600 --mlock --flash-attn
+Server started with PID: 14118
+Waiting for server to become ready...
+.Server is ready!
+Running zxscorer with solver_client.py...
+Problem llm-challenge
+
+[Test 1] DIFF Correct: 73/100
+          Passed  43.896s  72.82pts
+
+Total score 72.82pts
+
+Run log submitted successfully
+  visit https://hpc.chouhsing.org to see the rank
+Scoring finished.
+Cleaning up server...
