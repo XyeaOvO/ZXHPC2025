@@ -6,7 +6,8 @@
       "Bash(git fetch:*)",
       "Bash(git merge:*)",
       "Bash(git push:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "additionalDirectories": [
       "c:\\Users\\Xyea\\Desktop\\ZXHPC2025"
