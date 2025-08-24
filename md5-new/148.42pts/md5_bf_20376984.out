@@ -1,0 +1,17 @@
+Loading GCC 10.1.0 module...
+Compiling the MD5 brute-force solver...
+Compilation successful. Running the scorer...
+Problem md5-new
+
+[Test 1]  Passed  4.295s  12.97pts
+[Test 2]  Passed  2.463s  23.36pts
+[Test 3]  Passed  3.859s  14.55pts
+[Test 4]  Passed  5.618s  9.68pts
+[Test 5]  Passed  6.552s  8.16pts
+[Test 6]  Passed  3.380s  16.75pts
+[Test 7]  Passed  3.470s  16.29pts
+[Test 8]  Passed  3.146s  18.07pts
+[Test 9]  Passed  4.383s  12.69pts
+[Test 10]  Passed  3.550s  15.90pts
+
+Total score 148.42pts

@@ -1,0 +1,13 @@
+Compiling the optimized code...
+Compilation successful. Running the scorer...
+Problem cos-sim
+
+[Test 1]  Passed  69.420ms  25.00pts
+[Test 2]  Passed  310.381ms  24.12pts
+[Test 3]  Passed  1.074s  22.25pts
+[Test 4]  Passed  4.026s  20.21pts
+
+Total score 91.58pts
+
+Run log submitted successfully
+  visit https://hpc.chouhsing.org to see the rank

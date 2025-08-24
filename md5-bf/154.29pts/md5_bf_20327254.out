@@ -1,0 +1,30 @@
+Loading GCC 10.1.0 module...
+Compiling the MD5 brute-force solver...
+Compilation successful. Running the scorer...
+Problem md5-bf
+
+[Test 1]  Passed  2.601s  4.77pts
+[Test 2]  Passed  2.591s  4.79pts
+[Test 3]  Passed  2.167s  5.92pts
+[Test 4]  Passed  2.134s  6.03pts
+[Test 5]  Passed  2.109s  6.11pts
+[Test 6]  Passed  2.119s  6.08pts
+[Test 7]  Passed  2.137s  6.02pts
+[Test 8]  Passed  2.151s  5.97pts
+[Test 9]  Passed  2.102s  6.14pts
+[Test 10]  Passed  2.113s  6.10pts
+[Test 11]  Passed  2.146s  5.99pts
+[Test 12]  Passed  2.115s  6.09pts
+[Test 13]  Passed  2.200s  5.82pts
+[Test 14]  Passed  3.191s  3.70pts
+[Test 15]  Passed  2.815s  4.33pts
+[Test 16]  Passed  4.913s  2.05pts
+[Test 17]  Passed  2.593s  4.78pts
+[Test 18]  Passed  2.604s  4.76pts
+[Test 19]  Passed  2.095s  6.16pts
+[Test 20]  Passed  279.460ms  52.67pts
+
+Total score 154.29pts
+
+Run log submitted successfully
+  visit https://hpc.chouhsing.org to see the rank

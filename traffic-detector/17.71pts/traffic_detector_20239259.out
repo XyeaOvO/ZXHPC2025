@@ -1,0 +1,11 @@
+Loading GCC 10.1.0 module...
+Compiling the optimized traffic detector...
+Compilation successful. Running the scorer...
+Problem traffic-detector
+
+[Test Case]  Passed  183.619s  17.71pts
+
+Total score 17.71pts
+
+Run log submitted successfully
+  visit https://hpc.chouhsing.org to see the rank
